@@ -1,5 +1,6 @@
 {
     "name": "2Dring_once_with_rand_game",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
