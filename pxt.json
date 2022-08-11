@@ -1,5 +1,5 @@
 {
-    "name": "2Dring",
+    "name": "2Dring_once_with_rand_game",
     "description": "",
     "dependencies": {
         "core": "*",
